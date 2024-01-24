@@ -8,3 +8,8 @@
 - Arnaud PY - TextBasedAdventureGame : [link](https://github.com/Nonouille/TextBasedAdventureGame-PY-CDOF1/tree/main)
 - Name-Project: [Joy Sylver Yamsi T.](https://github.com/sylverjoy/todolist-joy_yamsi-cdof1/edit/main/README.md)
 - Leroy_Hubert-Quiz_game:[quiz_game-hubert_leroy-cdof1](https://github.com/Sbike/quiz_game-hubert_leroy-cdof1)
+- Game-Of-Life: [https://github.com/LouSarbe/Game_of_Life-Louis_Bessard-CDOF1]
+- BALDERACCHI_Adrien-Quiz_Game: [Adrien Balderacchi](https://github.com/Ariboux/Quiz-Game.git)
+- BALIAN_Mathias-Todolist: [BALIAN_Mathias](https://github.com/mathiasbalian/todolist-mathias_balian-CDOF1)
+- Rémi Peltriaux - QuizzGame : [Remsptx](https://github.com/Remsptx/quizzgame-remi_peltriaux-CDOF1)
+- ASCII Art: [Hector Mell Mariolle](https://github.com/hectormm1234/TD1-Decentralization-Technologies)
