@@ -7,14 +7,12 @@
 
 - Name-Project: [name](https://github.com/Decentralized-System/CDOF1-TD1/edit/main/README.md)
 - Quizz Game: [Lazare BORDEREAUX](https://github.com/lazbord/Quiz_Game_Bordereaux_Lazare_CDOF1)
-- Name-Project: [Joy Sylver Yamsi T.](https://github.com/sylverjoy/todolist-joy_yamsi-cdof1/edit/main/README.md)
+- Name-Project: [Joy Sylver Yamsi T.](https://github.com/sylverjoy/todolist-joy_yamsi-cdof1)
 - LACOUTIERE_Paul-Todo_list:[Lacoutiere_Paul](https://github.com/LacoutierePaul/Todo_list-Paul_Lacoutiere-CDOF1)
 - Quiz_Game_correia_alexandre: [Alexandre CORREIA](https://github.com/AlexandreCGithub/Quiz_Game-correia_alexandre-cdof1) 
 - MANTZ_Giacomo-Quizz : https://github.com/giaco944/QuizzGame-MANTZ-CCC2.git
-- Name-Project: [Joy Sylver Yamsi T.](https://github.com/sylverjoy/todolist-joy_yamsi-cdof1/edit/main/README.md)
 - GUISELIN_Paul_Quiz_Game:[Guiselin_Paul](https://github.com/PetitPaul13/Quiz_Game_Guiselin_Paul_CDOF1)
 - Arnaud PY - TextBasedAdventureGame : [link](https://github.com/Nonouille/TextBasedAdventureGame-PY-CDOF1/tree/main)
-- Name-Project: [Joy Sylver Yamsi T.](https://github.com/sylverjoy/todolist-joy_yamsi-cdof1/edit/main/README.md)
 - AdventureGame: [Valentin_Bertogliati](https://github.com/valoubinouz/AdventureText_Bertogliati_CDOF1)
 - GameOfLife_Maxime_CDOF1: [Gay_Maxime](https://github.com/Achitaka2000/LifeSimulator_Maxime_CDOF1.git)
 - GALLOIS_Lucie_TODOLIST: [GALLOIS_Lucie](https://github.com/luciiegal/todolist.git)
