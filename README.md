@@ -1,4 +1,10 @@
 # CDOF1-TD1
+
+## Recap to use Git and GitHub:
+[https://nandyba.com/formations/GitHub/pdf](https://nandyba.com/formations/GitHub/pdf)
+
+## Your teamates projects:
+
 - Name-Project: [name](https://github.com/Decentralized-System/CDOF1-TD1/edit/main/README.md)
 - Quizz Game: [Lazare BORDEREAUX](https://github.com/lazbord/Quiz_Game_Bordereaux_Lazare_CDOF1)
 - Name-Project: [Joy Sylver Yamsi T.](https://github.com/sylverjoy/todolist-joy_yamsi-cdof1/edit/main/README.md)
