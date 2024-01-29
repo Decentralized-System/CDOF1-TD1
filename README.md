@@ -26,3 +26,4 @@
 - BALIAN_Mathias-Todolist: [BALIAN_Mathias](https://github.com/mathiasbalian/todolist-mathias_balian-CDOF1)
 - Rémi Peltriaux - QuizzGame : [Remsptx](https://github.com/Remsptx/quizzgame-remi_peltriaux-CDOF1)
 - ASCII Art: [Hector Mell Mariolle](https://github.com/hectormm1234/TD1-Decentralization-Technologies)
+- Quiz_Periodic_Table : [De_Sousa](https://github.com/mariondss/Quiz_Periodic_Table-De_Sousa-CDOF1)
