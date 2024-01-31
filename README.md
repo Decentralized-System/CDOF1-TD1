@@ -28,4 +28,4 @@
 - ASCII Art: [Hector Mell Mariolle](https://github.com/hectormm1234/TD1-Decentralization-Technologies)
 - Quiz_Capital: [JURET-RAFIN](https://github.com/MathisJuretRafin/Quiz_Capital-JURET-RAFIN-CDOF1)
 - Quiz_Periodic_Table : [De_Sousa](https://github.com/mariondss/Quiz_Periodic_Table-De_Sousa-CDOF1)
-- Todo_List_Application-Aline_Wang-OCC_1 : [WangAline](https://github.com/WangAline/Todo_List_Application-Aline_Wang-OCC_1)
+- Todo List Application Aline Wang OCC_1 : [WangAline](https://github.com/WangAline/Todo_List_Application-Aline_Wang-OCC_1)
