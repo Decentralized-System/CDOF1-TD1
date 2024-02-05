@@ -7,7 +7,7 @@
 
 - Name-Project: [name](https://github.com/Decentralized-System/CDOF1-TD1/edit/main/README.md)
 - Quizz Game: [Lazare BORDEREAUX](https://github.com/lazbord/Quiz_Game_Bordereaux_Lazare_CDOF1)
-- Name-Project: [Joy Sylver Yamsi T.](https://github.com/sylverjoy/todolist-joy_yamsi-cdof1)
+- Todo List: [Joy Sylver Yamsi T.](https://github.com/sylverjoy/todolist-joy-yamsi-cdof1)
 - LACOUTIERE_Paul-Todo_list:[Lacoutiere_Paul](https://github.com/LacoutierePaul/Todo_list-Paul_Lacoutiere-CDOF1)
 - Quiz_Game_correia_alexandre: [Alexandre CORREIA](https://github.com/AlexandreCGithub/Quiz_Game-correia_alexandre-cdof1) 
 - MANTZ_Giacomo-Quizz : https://github.com/giaco944/QuizzGame-MANTZ-CCC2.git
